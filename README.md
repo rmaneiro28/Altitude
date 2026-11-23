@@ -1,7 +1,7 @@
 # 🏔️ Altitude
 
 > Una plataforma web moderna desplegada en Vercel.  
-> 🔗 **Demo en vivo:** [altitude-khaki.vercel.app](https://gymaltitude.vercel.app/)
+> 🔗 **Demo en vivo:** [[altitude-khaki.vercel.app](https://gymaltitude.vercel.app/)](https://gymaltitude.vercel.app/)
 
 ---
 
